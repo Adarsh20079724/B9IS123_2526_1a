@@ -1,8 +1,6 @@
 
 const randomNumber = 10
 
-
-
 let euler1 = (num) => {
     let sum = 0;
 
