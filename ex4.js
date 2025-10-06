@@ -35,3 +35,5 @@ euler1(inputStr) ;
 //keep code DRY (Don't repeat yourself)
 
 //if you're finished, code it into a page
+
+//let f2 = (a,l) => l.filter(i=>a.some(j=>i%j == 0).reduce((x,y) => x+y,0))
